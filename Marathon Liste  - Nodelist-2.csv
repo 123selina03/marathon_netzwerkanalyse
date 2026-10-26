@@ -1,0 +1,247 @@
+id,name,type,sex,country,club,age
+tokyo2023,Tokyo Marathon 2023,2,,JPN,,
+tokyo2024,Tokyo Marathon 2024,2,,JPN,,
+tokyo2025,Tokyo Marathon 2025,2,,JPN,,
+nyc2023,New York City Marathon 2023,2,,USA,,
+nyc2024,New York City Marathon 2024,2,,USA,,
+nyc2025,New York City Marathon 2025,2,,USA,,
+chicago2023,Chicago Marathon 2023,2,,USA,,
+chicago2024,Chicago Marathon 2024,2,,USA,,
+chicago2025,Chicago Marathon 2025,2,,USA,,
+london2023,London Marathon 2023,2,,ENG,,
+london2024,London Marathon 2024,2,,ENG,,
+london2025,London Marathon 2025,2,,ENG,,
+boston2023,Boston Marathon 2023,2,,USA,,
+boston2024,Boston Marathon 2024,2,,USA,,
+boston2025,Boston Marathon 2025,2,,USA,,
+berlin2025,Berlin Marathon 2025,2,,GER,,
+berlin2024,Berlin Marathon 2024,2,,GER,,
+berlin2023,Berlin Marathon 2023,2,,GER,,
+wm2025,Weltmeisterschaft Japan,3,,JPN,,
+wm2023,Weltmeisterschaft Ungarn,3,,HUN,,
+olymp2024,Olympische Spiele Frankreich,4,,FRA,,
+olymp2021,Olympische Spiele Japan,4,,JPN,,
+sasab,Sabastian Saw,1,m,KEN,2 Running Club,1995
+akaki,Akira Akasaki,1,m,JPN,,1998
+dechi,Chimdessa Debele,1,m,ETH,,2003
+adguy,Guye Adola,1,m,ETH,,1990
+uryuh,Yuhei Urano ,1,m,JPN,,1997
+waros,Rosemary Wanjiru ,1,w,KEN,,1994
+dider,Dera Dida,1,w,ETH,,1996
+geazm,Azmera Gebru ,1,w,ETH,,1995
+chvio,Viola Cheptoo,1,w,KEN,,1989
+wofan,Fantu Worku,1,w,ETH,,1999
+memil,Milkesa Mengesha,1,m,ETH,,2000
+kocyb,Cybrian Kotut,1,m,KEN,2 Running Club,1992
+alhay,Haymanot Alew,1,m,ETH,,1997
+kiste,Stephen Kiprop,1,m,KEN,,1999
+kihai,Hailemariyam Kiros,1,m,ETH,,1997
+ketig,Tigist Ketema,1,w,ETH,,1998
+fimes,Mestawot Fikir,1,w,ETH,,1999
+mubos,Bosena Mulatie,1,w,ETH,,2001
+muabe,Aberu Ayana Mulisa,1,w,ETH,,1993
+hoai,Ai Hosoda,1,w,JPN,,1995
+kieli,Eliud Kipchoge,1,m,KEN,NN Running Team,1984
+kivin,Vincent Kipkemoi,1,m,KEN,,1999
+tatad,Tadese Takele,1,m,ETH,,2002
+koron,Ronald Korir,1,m,KEN,,1991
+tehaf,Haftu Teklu,1,m,ETH,,1995
+chshe,Sheila Chepkirui,1,w,KEN,,1990
+shmag,Magdalena Shauri,1,w,TAN,,1996
+yizei,Zeineba Yimer,1,w,ETH,,1998
+tesen,Senbere Teferi,1,w,ETH,,1995
+jeper,Peres Jepchichir,1,w,KEN,adidas,1993
+pajul,Julia Paternain,1,w,URU,,1999
+sialp,Alphonce Simbu,1,m,TAN,ASICS,1992
+peama,Amanal Petros,1,m,GER,,1995
+aoili,Iliass Aouani,1,m,ITA,,1995
+kivic,Victor Kiplangat,1,m,UGA,NN Running Team,1999
+temar, Maru Teferi,1,m,ISR,,1992
+geleu,Leul Gebresilase,1,m,ETH,NN Running Team,1992
+shama,Amane Shankule,1,w,ETH,Trainingsgruppe Gemedu Dedef,1991
+gegot,Gotytom Gebreslase,1,w,ETH,,1995
+gafat,Fatima Gardadi,1,w,MAR,,1992
+totam,Tamirat Tola,1,m,ETH,adidas,1991
+abbas,Bashir Abdi,1,m,BEL,,1989
+kiben,Benson Kipruto,1,m,KEN,2 Running Club,1991
+hasif,Sifan Hassan,1,w,NED,,1993
+astig, Tigst Assefa,1,w,ETH,Trainingsgruppe Gemedu Dedefo,1996
+obhel, Hellen Obiri,1,w,KEN,,1989
+kobri, Brigid Kosgei,1,w,KEN,,1994
+semol,Molly Seidel,1,w,USA,,1994
+naabd, Abdi Nageeye,1,m,NED,NN Running Team,1989
+geder, Deresa Geleta,1,m,ETH,,1996
+kesut, Sutume Asefa Kebede,1,w,ETH,,1994
+mowin,Winfridah Moraa Moseti,1,w,KEN,ASICS,1996
+fehaw, Hawi Feysa,1,w,ETH,,1999
+kitim, Timothy Kiplagat,1,m,KEN,,1993
+gedes,Deso Gelmisa,1,m,ETH,,1997
+esmoh, Mohamed Esa,1,m,ETH,NN Running Team,2000
+getse, Tsegaye Getachew,1,m,ETH,ASICS,1996
+beash, Ashete Bekere,1,w,ETH,NN Running Team,1988
+kitit,Titus Kipruto,1,m,KEN,2 Running Club,1998
+lecam, Cameron Levins,1,m,CAN,ASICS,1989
+edwor, Worknesh Edesa,1,w,ETH,Trainingsgruppe Gemedu Dedefo,1992
+sabet, Betsy Saina,1,w,USA,ASICS,1988
+ummul, Mulugeta Asefa Uma,1,m,ETH,ASICS,1998
+mamag, Magdalyne Masai,1,w,KEN,ASICS,1993
+kojoh,John Korir,1,m,KEN,,1996
+macon, Conner Mantz,1,m,USA,,1996
+edmuk,Muktar Edris,1,m,ETH,,1994
+losha, Sharon Lokedi,1,w,KEN,,1994
+yeyal, Yalemzerf Yehualaw,1,w,ETH,,1999
+chire,Irene Cheptai,1,w,KEN,,1992
+beama, Amane Beriso,1,w,ETH,Trainingsgruppe Gemedu Dedefo,1991
+lesis,Sisay Lemma,1,m,ETH,adidas,1990
+cheva, Evans Chebet,1,m,KEN,2 Running Club,1988
+koalb, Albert Korir,1,m,KEN,,1994
+dibuz,Buze Diriba,1,w,ETH,Trainingsgruppe Gemedu Dedefo,1994
+gegab,Gabriel Geay,1,m,TAN,,1996
+tazou, Zouhair Talbi,1,m,MAR,,1995
+salon, Lonah Chemtai Salpeter,1,w,ISR,NN Running Team,1988
+yeaba,Ababel Yeshaneh,1,w,ETH,,1991
+baemm,Emma Bates,1,w,USA,,1992
+shkit, Kitata Shura ,1,m,ETH,,1996
+konae,Naert Konae,1,m,BEL,,1989
+gilet, Letesenbet Gidey,1,w,ETH,,1998
+ngmar,Mary Ngugi,1,w,KEN,,1988
+kageo,Geoffrey Kamworor,1,m,KEN,,1992
+chviv,Vivian Cheruiyot,1,w,KEN,,1983
+cheun,Eunice Chumba,1,w,BHR,,1993
+scfab, Fabienne Schlumpf,1,w,CHE,,1990
+muale, Alexander Mutiso,1,m,KEN,,1996
+depat,Patrick Dever,1,m,GBR,,1996
+kymat, Matthias Kyburz,1,m,CHE,,1990
+rejoe, Joel Reichow,1,m,USA,,1993
+okfio, Fiona O'Keeffe,1,w,USA,,1998
+frann, Annie Frisbie,1,w,USA,,1996
+kikel, Kelvin Kiptum,1,m,KEN,,1999
+tuabd,Seifu Tura Abdiwak,1,m,ETH,,1997
+chrut,Ruth Chepngetich,1,w,KEN,,1994
+almeg, Megertu Alemu,1,w,ETH,,1997
+jejoy,Joyciline Jepkosgei,1,w,KEN,,1993
+tenar, Tadu Teshome Nare,1,w,ETH,,2001
+eshus, Huseydin Mohamed ESA,1,m,ETH,NN Running Team,2000
+kiamo,Amos Kipruto,1,m,KEN,2 Running Club,1992
+ngvin,Vincent Ngetich,1,m,KEN,,2001
+ebdan, Daniel Ebenyo,1,m,KEN,,1995
+chiri,Irine Cheptai,1,w,KEN,,1992
+maale,Alex Masai,1,m,KEN,,1997
+chloi,Loice Chemnung,1,w,KEN,,1997
+beken,Kenenisa Bekele,1,m,ETH,NN Running Team,1982
+caemi,Emile Cairess,1,m,ENG,,1997
+meale,Alemu Megertu,1,w,ETH,,1997
+kijac,Jacob Kiplimo,1,m,UGA,,2000
+mamah,Mahamed Mahamed,1,m,ETH,,1997
+dehav,Haven Desse,1,w,ETH,,1998
+abtad,Tadu Abate,1,m,ETH,NN Running Team,1997
+yaich,Ichitaka Yamashita,1,m,JPN,,1997
+soken,Kenya Sonota,1,m,JPN,,1993
+ossug,Suguru Osako,1,m,JPN,,1991
+inhir,Hiroto Inoue,1,m,JPN,,1993
+fllin,Lindsay Flanagan,1,w,USA,,1991
+mokao,Kaori Morita,1,w,JPN,,1996
+abyuk,Yukari Abe,1,w,JPN,,1989
+mamit,Mitzuki Matsuda,1,w,JPN,,1995
+hinii,Niiya Hitomi,1,w,JPN,,1988
+meabe,Abebayahau Meseret,1,w,ETH,,1998
+khgal,Galbadrakh Khishigsaikan,1,w,MNG,,1990
+tiaba,Abayechew Tigist,1,w,ETH,,1994
+aymor,Morita Ayumi,1,w,JPN,,1996
+bekib,Kibet Bethwel,1,w,KEN,,1991
+haala,Alame Haimro,1,w,ISR,,1990
+sikar,Kariuki Simon,1,w,KEN,,1996
+yunis,Nishiyama Yusuke,1,w,JPN,,1994
+togeo,Geoffrey Toreitich,1,m,KEN,,2000
+hasul,Suldán Hassan,1,m,SWE,,1998
+chjos,Joshua Cheptegei,1,m,UGA,NN Running Team,1996
+ictsu,Tsubasa Ichiyama,1,m,JPN,,1996
+modes,Desi Jisa Mokonin,1,w,BRN,,1997
+azdeg,Degitu Azimeraw,1,w,ETH,,1999
+zhdes,Deshun Zhang,1,w,CHN,,1996
+stjes,Jessica Stenson,1,w,AUS,,1987
+kiedn,Edna Kiplagat,1,w,KEN,,1979
+humol,Molly Huddle,1,w,USA,,1984
+zefan,Fantu Zewude Jifar,1,w,ETH,,1996
+chedw,Edward Cheserek,1,m,KEN,,1994
+yijem,Jemal Yimer,1,m,ETH,ASICS ,1996
+zifut,Futsum Zienasellassie,1,m,USA,,1992
+vasar,Sara Vaughn,1,w,USA,,1986
+kiabe,Abel Kipchumba,1,m,KEN,2 Running Club,1994
+alcj,Cj Albertson,1,m,USA,Brooks Running,1993
+wajes,Jessica Warner-Judd,1,w,ENG,,1995
+siemi,Emily Sisson,1,w,USA,,1991
+veama,Amanda Vestri,1,w,USA,Brooks Running,1999
+mcfio,Fionnuala McCormack,1,w,IRL,,1984
+hicha,Charles Hicks,1,m,USA,,2001
+moson,Sondre Nordstad Moen,1,m,NOR,,1991
+wetse,Tsegay Weldlibanos,1,m,ERI,,1995
+kljoe,Joe Klecker,1,m,USA,,1996
+takel,Taylor Kellyn,1,w,USA,,1986
+sephi,Phil Sesemann,1,m,GBR,adidas,1992
+famo,Mo Farah,1,m,GBR,,1983
+thchr,Chris Thompson,1,m,GBR,,1981
+kojud,Judith Jeptum Korir,1,w,KEN,NN Running Team,1995
+ayalm,Almaz Ayana,1,w,ETH,,1991
+tetad,Tadu Teshome,1,w,ETH,adidas,2001
+yasof,Sofiia Yaremchuk,1,w,ITA,Brooks Running,1994
+susus,Susanna Sullivan,1,w,USA,Brooks Running,1990
+asbok,Boki Asefa,1,m,ETH,NN Running Team,1997
+ozkaa,Kaan Kigen Özbilen,1,m,TRK,,1986
+cryem,Yemaneberhan Crippa,1,m,ITA,,1996
+scmar,Marc Scott,1,m,GBR,NN Running Team,1993
+hatsi,Tsige Haileslase,1,w,ETH,adidas,1992
+ammor,Morhad Amdouni,1,m,FRA,,1988
+thcal,Callum Thackery,1,m,ENG,,1993
+haros,Rose Harvey,1,m,ENG,,1992
+pucha,Charlotte Purdue,1,w,ENG,adidas,1991
+rugal,Galen Rupp,1,m,USA,,1986
+chsam,Sam Chelanga ,1,m,USA,,1985
+ictak,Takashi Ichida,1,m,JPN,,1992
+hokyo,Kyohei Hosoya,1,m,JPN,,1995
+satos,Toshiki Sadakat,1,m,JPN,,1992
+ndsta,Stacy Ndiwa,1,w,KEN,,1992
+tusei,Seifu Tur,1,m,ETH,,1997
+kiphi,Philemon Kiplimo Kimaiy,1,m,KEN,,1998
+liror,Rory Linkletter,1,m,CAN,,1996
+ronat,Natosha Rogers,1,w,USA,,1991
+podak,Dakotah Popehn,1,w,USA,,1995
+boflo,Florencia Borelli,1,w,ARG,,1992
+rogab,Gabriella Rooker,1,w,USA,,1987
+jumel,Melody Julien,1,w,FRA,,1999
+rateb,Tebello Ramakongoana,1,m,LES,,1996
+madan,Daniel Mateiko,1,m,KEN,NN Running Team,1998
+forya,Ryan Ford,1,m,USA,,1997
+mcjes,Jess McClain,1,w,USA,Brooks Running,1992
+metir,Tiruye Mesfin,1,w,ETH,,2002
+fasco,Scott Fauble,1,m,USA,,1991
+mcmat,Matt McDonald,1,m,USA,,1993
+wenaz,Nazret Weldu,1,w,ERI,,1990
+taang,Angela Tanui,1,w,KEN,,1992
+kishi,Shin Kimura,1,m,JPN,,1994
+pfhen,Hendrik Pfeiffer,1,m,GER,,1993
+pajos,Joseph Tiophil Panga,1,m,TAN,,1995
+ouahm,Ahmed Ouhda,1,m,ITA,,1997
+kofab,Fabienne Königstein,1,w,GER,,1992
+madom,Domenika Mayer,1,w,GER,,1990
+mahon,Honami Maeda,1,w,JPN,,1996
+ikyoh,Yohei Ikeda,1,m,JPN,,1998
+oneno,Enock Onchari,1,m,KEN,,1999
+kader,Derseh Kindie Kassie,1,m,ETH,,1999
+mamiz,Mizuki Matsuda,1,w,JPN,,1995
+hacal,Callie Hauger-Thackery,1,w,ENG,,1993
+meyeb,Yebregual Melese,1,w,ETH,,1990
+wefik,Fikrte Wereta,1,w,ETH,,2000
+gosis,Sisay Meseret Gola,1,w,ETH,,1997
+shian,Andualem Belay Shiferaw,1,m,ETH,,1992
+kibon,Bonface Kimutai Kiplimo,1,m,KEN,,1995
+behel,Helen Bekele,1,w,ETH,,1994
+chhas,Hassan Chahdi,1,m,FRA,,1989
+digen,Genzebe Dibaba Keneni,1,w,ETH,,1991
+moyum,Yuma Morii,1,m,JPN,,1990
+mpisa,Isaac Mpofu,1,m,SWE,,1988
+pazac,Zach Panning ,1,m,USA,,1995
+ruoqu,Oque Kibrom Ruesom,1,m,ERI,,1998
+yocla,Clayton young,1,m,USA,Brooks Running,1993
+robre,Brett Robinson,1,m,AUS,,1985
+gehiw,Hiwot Gebremaryam,1,m,ETH,adidas,1995
